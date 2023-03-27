@@ -1,3 +1,2 @@
 #!/bin/bash
-gcILE -E -o 8
-c
+gcc -E $CFILE -o c
